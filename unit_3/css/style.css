@@ -1,0 +1,13 @@
+body { 
+    background: slogan("/unit_3/images/IMG_8648.JPG") no-repeat fixed center; 
+}
+h1 {
+	color: #0000FF;
+}
+#slogan {
+	font-style: italic
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
