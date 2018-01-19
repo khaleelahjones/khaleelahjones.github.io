@@ -1,5 +1,8 @@
 body { 
-    background: slogan("/unit_3/images/IMG_8648.JPG") no-repeat fixed center; 
+	font-family: Helvetica;
+	font-size: 12px;
+	color: #222222;
+    background: ("/unit_3/images/IMG_8648.JPG"); 
 }
 h1 {
 	color: #0000FF;
