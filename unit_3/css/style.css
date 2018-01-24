@@ -1,16 +1,23 @@
 body { 
 	font-family: 'Raleway', sans-serif;
-	font-size: 1em;
+	font-size: 16px; /*1em=16px*/
 	color: #222222; 
 	background-color: #fefdfb;
+}
+nav {
+	margin:auto;
 }
 #lander {
 	font-family: 'Raleway', sans-serif;
-	font-size: 1em;
+	font-size: 1.5em;
 	color: #222222; 
 	background-color: #fefdfb;
+	text-align: center;
+	margin-right: 20px;
+	position: relative;
 }
 h1 {
+	padding: 200px;
 	font-family: 'Slabo 27px', serif;
 	color: #0000FF;
 	font-size: 2em;
@@ -18,7 +25,7 @@ h1 {
 #slogan {
 	font-style: italic
 	font-family: 'Slabo 27px', serif; 
-	font-size: 1em;
+	font-size: 1.5em;
 }
 #list {
 	color:#FFD700;
