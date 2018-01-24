@@ -22,8 +22,14 @@ h1 {
 	color: #0000FF;
 	font-size: 2em;
 }
+.main {
+	margin: 2em auto;
+}
+p {
+	width: 30em; /*30x font size*/
+	font-size: 1em;
+}
 #slogan {
-	font-style: italic
 	font-family: 'Slabo 27px', serif; 
 	font-size: 1.5em;
 }
