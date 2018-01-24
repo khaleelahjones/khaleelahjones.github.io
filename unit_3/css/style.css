@@ -4,3 +4,7 @@ body {
 	color: #222222; 
 	background-color: #fefdfb;
 }
+nav {
+	margin:auto;
+	padding-right: 2em;
+}
