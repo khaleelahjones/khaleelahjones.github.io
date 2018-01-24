@@ -4,6 +4,12 @@ body {
 	color: #222222; 
 	background-color: #fefdfb;
 }
+#lander {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	color: #222222; 
+	background-color: #fefdfb;
+}
 h1 {
 	font-family: 'Slabo 27px', serif;
 	color: #0000FF;
