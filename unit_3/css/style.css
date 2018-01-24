@@ -4,39 +4,3 @@ body {
 	color: #222222; 
 	background-color: #fefdfb;
 }
-nav {
-	margin:auto;
-	padding-right: 2em;
-}
-#lander {
-	font-family: 'Raleway', sans-serif;
-	font-size: 1.5em;
-	color: #222222; 
-	background-color: #fefdfb;
-	text-align: center;
-	margin-right: 20px;
-	position: relative;
-}
-h1 {
-	font-family: 'Slabo 27px', serif;
-	font-size: 3em;
-	color: #0000FF;
-}
-h2 {
-	font-family: 'Slabo 27px', serif; 
-	font-size: 1.5em;
-}
-.main {
-	margin: 2em auto;
-}
-p {
-	width: 30em; /*30x font size*/
-	font-size: 1em;
-}
-#list {
-	color:#FFD700;
-}
-ul {
-    text-align: center;
-    list-style-type: none;
-}
