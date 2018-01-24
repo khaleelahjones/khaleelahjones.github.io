@@ -3,8 +3,17 @@ body {
 	font-size: 16px; /*1em=16px*/
 	color: #222222; 
 	background-color: #fefdfb;
+	text-align: center;
+	margin-right: 20px;
+	position: relative;
 }
-nav {
-	margin:auto;
-	padding-right: 2em;
+h1 {
+	font-family: 'Slabo 27px', serif;
+	font-size: 3em;
+	color: #0000FF;
 }
+h2 {
+	font-family: 'Slabo 27px', serif; 
+	font-size: 1.5em;
+}
+
