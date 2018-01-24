@@ -18,6 +18,7 @@ h2 {
 }
 .main {
 	margin: 2em auto;
+	text-align: center;
 }
 p {
 	width: 30em; /*30x font size*/
