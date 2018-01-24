@@ -3,9 +3,6 @@ body {
 	font-size: 16px; /*1em=16px*/
 	color: #222222; 
 	background-color: #fefdfb;
-	text-align: center;
-	margin-right: 20px;
-	position: relative;
 }
 h1 {
 	font-family: 'Slabo 27px', serif;
