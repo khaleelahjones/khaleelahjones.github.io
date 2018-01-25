@@ -12,7 +12,7 @@ h1 {
 	font-family: 'Slabo 27px', serif;
 	font-size: 3em;
 	color: #004c00;
- 	text-transform: uppercase;
+	border-bottom: 4px
 }
 h2 {
 	font-family: 'Slabo 27px', serif; 
