@@ -1,3 +1,19 @@
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	text-align: center;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
 body { 
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px; /*1em=16px*/
@@ -26,10 +42,6 @@ h3 {
 	font-style: solid;
 	text-align: center;
 }
-.nav {
-	text-align: center;
-	text-color: blue;
-}
 p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
@@ -41,4 +53,9 @@ p {
   	margin: 0;
   	padding: 0;
   	text-align: center;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
