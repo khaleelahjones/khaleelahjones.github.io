@@ -4,10 +4,17 @@ body {
 	color: #222222; 
 	background-color: #fefdfb;
 }
+.tart {
+  display:block;
+  margin: 0 auto;
+}
 h1 {
 	font-family: 'Slabo 27px', serif;
 	font-size: 3em;
 	color: #004c00;
+ 	text-transform: uppercase;
+  	border-bottom: 4px solid black;
+  	display:inline-block;
 }
 h2 {
 	font-family: 'Slabo 27px', serif; 
@@ -16,7 +23,7 @@ h2 {
 h3 {
 	font-family: 'Slabo 27px', serif; 
 	font-size: 1.5em;
-	font-style: bold
+	font-style: solid;
 }
 .nav {
 	text-align: center;
