@@ -1,3 +1,9 @@
+body { 
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px; /*1em=16px*/
+	text-align: center;
+	position: relative;
+}
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -13,14 +19,6 @@ section {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
-}
-body { 
-	font-family: 'Raleway', sans-serif;
-	font-size: 16px; /*1em=16px*/
-	white-space: nowrap;
-  	overflow: hidden;
-  	text-overflow: ellipsis;
-  	max-width: 200px;
 }
 #tart {
   display:block;
@@ -48,6 +46,7 @@ p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	font-color: black;
+	width: 30em; 
 }
 #list {
 	color:#FFD700;
