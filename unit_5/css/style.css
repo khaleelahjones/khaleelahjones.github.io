@@ -1,0 +1,33 @@
+body { 
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px; /*1em=16px*/
+	color: #222222; 
+	background-color: #fefdfb;
+}
+h1 {
+	font-family: 'Slabo 27px', serif;
+	font-size: 3em;
+	color: #004c00;
+}
+h2 {
+	font-family: 'Slabo 27px', serif; 
+	font-size: 1.5em;
+	font-style: italic;
+}
+.nav {
+	text-align: center;
+	text-color: blue;
+}
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	font-color: black;
+}
+#list {
+	color:#FFD700;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
