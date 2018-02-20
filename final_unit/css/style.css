@@ -10,23 +10,24 @@ body {
 	position: relative;
 }
 
-#header {
+#topbar {
 	background-color: #687d92;
-	font-family: 'Raleway', sans-serif;
-	font-size: .8em; 
 	position: relative;
+	border: 1em black solid;
 }
 
-header {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
+#logo {
+	height: .5em;
+	width: .5em;
 }
+
 nav {
-	background-color: #E8C66A;
-	text-align: right;
-	padding: 1.5em;
+	font-family: 'Raleway', sans-serif;
+	font-size: .8em; 
+	text-align: left;
+	padding: 2em;
 }
+
 section {
 	background-color: #FFE2B8;
 	border: 1px black solid;
