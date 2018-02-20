@@ -5,7 +5,7 @@
 
 body {
 	font-family: 'Raleway', sans-serif;
-	font-size: 16px;
+	font-size: 16px; 
 	text-align: center;
 	position: relative;
 }
@@ -17,9 +17,8 @@ header {
 }
 nav {
 	background-color: #E8C66A;
-	text-align: center;
-	border: 1px black solid;
-	padding: 20px;
+	text-align: right;
+	padding: 1.5em;
 }
 section {
 	background-color: #FFE2B8;
