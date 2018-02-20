@@ -11,21 +11,29 @@ body {
 }
 
 #topbar {
-	background-color: #687d92;
+	background-color: #ffffff;
 	position: relative;
-	border: 1em black solid;
+	border: .1em black solid;
 }
 
 #logo {
-	height: .5em;
-	width: .5em;
+	height: 6em;
+	width: 6em;
+	align-content: right;
+}
+
+header {
+	float: left;
+	clear: right;
 }
 
 nav {
 	font-family: 'Raleway', sans-serif;
-	font-size: .8em; 
-	text-align: left;
-	padding: 2em;
+	font-size: 1.2em; 
+	text-align: right;
+	word-spacing: 1em;
+	padding: 1em;
+	border: 1em;
 }
 
 section {
@@ -33,34 +41,40 @@ section {
 	border: 1px black solid;
 	padding: 20px;
 }
+
 #tart {
   display:block;
   margin: 0 auto;
 }
+
 h1 {
 	font-family: 'Slabo 27px', serif;
 	font-size: 3em;
 	color: #004c00;
 	border-bottom: 4px
 }
+
 h2 {
 	font-family: 'Slabo 27px', serif; 
 	font-size: 2em;
 	border-bottom: 4px solid black;
   	display:inline-block;
 }
+
 h3 {
 	font-family: 'Slabo 27px', serif; 
 	font-size: 1.5em;
 	font-style: solid;
 	text-align: center;
 }
+
 p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	font-color: black;
 	width: 30em; 
 }
+
 #list {
 	color:#FFD700;
 	list-style: none;
@@ -68,6 +82,7 @@ p {
   	padding: 0;
   	text-align: center;
 }
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
