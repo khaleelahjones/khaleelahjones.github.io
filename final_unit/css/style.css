@@ -7,7 +7,6 @@ body {
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px; 
 	text-align: center;
-	position: relative;
 }
 
 #topbar {
@@ -17,9 +16,8 @@ body {
 }
 
 #logo {
-	height: 6em;
-	width: 6em;
-	align-content: right;
+	height: 5em;
+	width: 5em;
 }
 
 header {
@@ -30,21 +28,26 @@ header {
 nav {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.2em; 
+	font color: #44d9e6;
 	text-align: right;
 	word-spacing: 1em;
-	padding: 1em;
+	padding: 1.5em;
 	border: 1em;
 }
 
-section {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
+nav:hover {
+	opacity: .25;
 }
 
-#tart {
-  display:block;
-  margin: 0 auto;
+section {
+	border: 1em;
+	padding: 1.5px;
+}
+
+#imageoftartsection {
+	background-image: url ("images/tomatotart.jpg");
+	padding: .5em;
+	margin: .5em;
 }
 
 h1 {
@@ -72,15 +75,48 @@ p {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	font-color: black;
-	width: 30em; 
+	text-align: center;
 }
 
-#list {
-	color:#FFD700;
+#information {
+	background-color: rgba (233, 40, 40, 0.3);
+	margin: 2.5em;
+	padding: 2.5em;
+	text-align: center;
+}
+
+#whatwedo {
+	background-color: rgba (233, 40, 40, 0.3);
+	float: left;
+	clear: none;
+	width: 25em;
+}
+
+#asidelist {
+	background-color: rgba (233, 40, 40, 0.3);
 	list-style: none;
-  	margin: 0;
-  	padding: 0;
   	text-align: center;
+  	float: right;
+  	clear: none;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+#wherewecomein {
+	background-color: rgba (233, 40, 40, 0.3);
+	margin: 2em;
+	padding: 2em;
+}
+
+#whoweare {
+}
+
+#ourproduct {
+	background-color: rgba (233, 40, 40, 0.3);
+	margin: 2em;
+	padding: 2em;
 }
 
 footer {
